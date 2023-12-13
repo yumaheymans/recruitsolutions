@@ -1,0 +1,204 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-7h26{color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-zb5k{color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j6zm">Category</th>
+    <th class="tg-j6zm">Software Solution</th>
+    <th class="tg-j6zm">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7zrl" rowspan="4">AI-Based Screening Tools</td>
+    <td class="tg-7h26"><a href="https://hirevue.com/">HireVue</a></td>
+    <td class="tg-0lax">Offers AI-driven video interviewing and pre-employment assessment solutions.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://pymetrics.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Pymetrics</span></a></td>
+    <td class="tg-0lax">Uses neuroscience games and AI for unbiased candidate evaluation.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://mya.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Mya</span></a></td>
+    <td class="tg-0lax">Provides conversational AI solutions for automating parts of the recruitment process.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://herohunt.ai.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">herohunt.ai</span></a></td>
+    <td class="tg-0lax">AI-powered tool for sourcing candidates across various platforms.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="7">ATS (Applicant Tracking System)</td>
+    <td class="tg-zb5k"><a href="https://workable.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Workable</span></a></td>
+    <td class="tg-0lax">Streamlines hiring processes with collaborative tools and intuitive interface.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://greenhouse.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Greenhouse</span></a></td>
+    <td class="tg-0lax">Offers comprehensive suite for recruitment optimization and candidate tracking.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://lever.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Lever</span></a></td>
+    <td class="tg-0lax">Focuses on talent relationship management and powerful candidate sourcing.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://icims.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">iCIMS</span></a></td>
+    <td class="tg-0lax">Provides scalable solutions for recruitment with integration capabilities.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://bullhorn.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Bullhorn</span></a></td>
+    <td class="tg-0lax">Known for its CRM and operations software in staffing and recruiting sectors.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://jobvite.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Jobvite</span></a></td>
+    <td class="tg-0lax">Combines applicant tracking, recruiter CRM, and consumer-like candidate experiences.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://smartrecruiters.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">SmartRecruiters</span></a></td>
+    <td class="tg-0lax">Offers a talent acquisition suite with an emphasis on hiring success.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Background Check Services</td>
+    <td class="tg-zb5k"><a href="https://checkr.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Checkr</span></a></td>
+    <td class="tg-0lax">Offers modern background check services with emphasis on fairness and efficiency.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="2">Background Check Services</td>
+    <td class="tg-zb5k"><a href="https://hireright.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">HireRight</span></a></td>
+    <td class="tg-0lax">Provides comprehensive global background checks, drug testing, and employment verification.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://goodhire.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">GoodHire</span></a></td>
+    <td class="tg-0lax">Known for its user-friendly interface and good customer support in background screening.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Candidate Relationship Management</td>
+    <td class="tg-zb5k"><a href="https://avature.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Avature</span></a></td>
+    <td class="tg-0lax">Provides CRM and talent acquisition tools for strategic HR processes.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://yello.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Yello</span></a></td>
+    <td class="tg-0lax">Specializes in recruitment marketing, candidate engagement, and operations.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://clinch.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Clinch</span></a></td>
+    <td class="tg-0lax">Offers CRM with content management for personalized candidate experiences.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Diversity and Inclusion Tools</td>
+    <td class="tg-zb5k"><a href="https://greenhouseinclusion.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Greenhouse Inclusion</span></a></td>
+    <td class="tg-0lax">Offers tools to mitigate unconscious bias and promote diversity.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://gapjumpers.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">GapJumpers</span></a></td>
+    <td class="tg-0lax">Uses blind auditions to help companies hire a diverse workforce.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://blendoor.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Blendoor</span></a></td>
+    <td class="tg-0lax">Focuses on merit-based hiring and reducing unconscious bias.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Employee Referral Software</td>
+    <td class="tg-zb5k"><a href="https://zao.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Zao</span></a></td>
+    <td class="tg-0lax">Encourages employee referrals and social recruiting.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://employeereferrals.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">EmployeeReferrals</span></a></td>
+    <td class="tg-0lax">Offers comprehensive tools for managing and optimizing referral programs.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://rolepoint.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">RolePoint</span></a></td>
+    <td class="tg-0lax">End-to-end employee referrals, internal mobility, and engagement platform.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Freelance Hiring Platforms</td>
+    <td class="tg-zb5k"><a href="https://freelancer.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Freelancer</span></a></td>
+    <td class="tg-0lax">A marketplace for freelance services catering to a global audience.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://peopleperhour.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">PeoplePerHour</span></a></td>
+    <td class="tg-0lax">Connects clients with freelance workers for various projects.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://guru.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Guru</span></a></td>
+    <td class="tg-0lax">Offers a platform for businesses to find and hire freelance professionals.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Job Boards and Aggregators</td>
+    <td class="tg-zb5k"><a href="https://indeed.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Indeed</span></a></td>
+    <td class="tg-0lax">A global employment search engine widely used for job posting and hunting.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="6">Onboarding Software</td>
+    <td class="tg-zb5k"><a href="https://bamboohr.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">BambooHR</span></a></td>
+    <td class="tg-0lax">Provides a comprehensive solution for onboarding, compensation, and culture.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://gusto.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Gusto</span></a></td>
+    <td class="tg-0lax">Offers payroll, benefits, and HR tools designed for small businesses.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://zenefits.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Zenefits</span></a></td>
+    <td class="tg-0lax">Delivers cloud-based HR, benefits, and payroll solutions.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://talmundo.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Talmundo</span></a></td>
+    <td class="tg-0lax">Streamlines the onboarding process with digital tools and employee journeys.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://hronboard.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">HROnboard</span></a></td>
+    <td class="tg-0lax">Cloud-based employee onboarding solution focusing on engagement.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://enboarder.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Enboarder</span></a></td>
+    <td class="tg-0lax">Provides an experience-driven onboarding platform for new hires.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Recruitment Analytics</td>
+    <td class="tg-zb5k"><a href="https://oleeo.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Oleeo</span></a></td>
+    <td class="tg-0lax">Provides data-driven insights for talent acquisition and diversity.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://talismatic.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Talismatic</span></a></td>
+    <td class="tg-0lax">Analytics tool offering competitive intelligence and talent market insights.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://harver.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Harver</span></a></td>
+    <td class="tg-0lax">AI-powered pre-employment assessment and talent matching platform.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Recruitment Marketing Platforms</td>
+    <td class="tg-zb5k"><a href="https://smashfly.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">SmashFly</span></a></td>
+    <td class="tg-0lax">Delivers recruitment marketing and CRM technology for candidate engagement.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://beamery.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Beamery</span></a></td>
+    <td class="tg-0lax">Combines elements of CRM, marketing software, and AI for talent acquisition.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://phenompeople.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">Phenom People</span></a></td>
+    <td class="tg-0lax">AI-powered platform for personalizing the talent journey.</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl" rowspan="3">Video Interviewing Platforms</td>
+    <td class="tg-zb5k"><a href="https://refer.sparkhire.com/4fnitjkds3wi" target="_blank" rel="noopener noreferrer">Spark Hire</a></td>
+    <td class="tg-0lax">Provides one-way and live video interviewing solutions.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://interviewstream.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">InterviewStream</span></a></td>
+    <td class="tg-0lax">Offers video interviewing technology with interview practice tools.</td>
+  </tr>
+  <tr>
+    <td class="tg-zb5k"><a href="https://conveyiq.com/"><span style="font-style:normal;text-decoration:underline;color:#15C">ConveyIQ</span></a></td>
+    <td class="tg-0lax">Specializes in candidate engagement with video messaging and interviews.</td>
+  </tr>
+</tbody>
+</table>
